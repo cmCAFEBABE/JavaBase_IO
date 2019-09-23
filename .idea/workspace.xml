@@ -2,17 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d269a40-cca4-4865-8260-be66461d0d25" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/BaseAPI/BaseType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IO/ByteStream/BufferSteam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IO/ByteStream/FileStream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IO/CharSetStream/StreamReader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BaseAPI/Double_new_CompareTo_valueOf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exception/SetValueTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exception/String_IndexOutOfBoundsException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exception/multiCatchException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LocalClass/LocalClassTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test/bishi/Main_sike.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test/test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaBase_IO.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaBase.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBase_IO/ByteStream/FileInputStream_test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBase_IO/Resource/test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBase_IO/Resource/test.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ByteStream/FileInputStream_test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Resource/test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Resource/test.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBase/BaseAPI/BaseType.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBase/BaseAPI/BaseType.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBase/IO/ByteStream/BufferSteam.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBase/IO/ByteStream/BufferSteam.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBase/IO/CharSetStream/StreamReader.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBase/IO/CharSetStream/StreamReader.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBase/Resource/test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBase/Resource/test.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BaseAPI/BaseType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BaseAPI/BaseType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IO/ByteStream/BufferSteam.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IO/ByteStream/BufferSteam.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,43 +27,92 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/IO/ByteStream/FileStream.java">
+        <entry file="file://$PROJECT_DIR$/src/BaseAPI/BaseType.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="283">
-              <caret line="29" column="37" lean-forward="true" selection-start-line="29" selection-start-column="37" selection-end-line="29" selection-end-column="37" />
+            <state relative-caret-position="-69">
+              <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#335#336#0" expanded="true" />
+                <element signature="e#369#370#0" expanded="true" />
+                <element signature="e#718#719#0" expanded="true" />
+                <element signature="e#755#756#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/BaseAPI/BaseType.java">
+        <entry file="file://$PROJECT_DIR$/src/BaseAPI/Double_new_CompareTo_valueOf.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="25" column="32" lean-forward="true" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="32" />
+            <state relative-caret-position="108">
+              <caret line="18" column="44" selection-start-line="18" selection-start-column="44" selection-end-line="18" selection-end-column="44" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/IO/ByteStream/BufferSteam.java">
+        <entry file="file://$PROJECT_DIR$/src/Test/test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="283">
-              <caret line="25" selection-start-line="25" selection-end-line="25" selection-end-column="84" />
+            <state relative-caret-position="216">
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#374#375#0" expanded="true" />
+                <element signature="e#428#429#0" expanded="true" />
+                <element signature="e#358#359#0" expanded="true" />
+                <element signature="e#383#384#0" expanded="true" />
+                <element signature="e#420#421#0" expanded="true" />
+                <element signature="e#448#449#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Test/bishi/Main_sike.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="39" column="22" selection-start-line="39" selection-start-column="22" selection-end-line="39" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Exception/SetValueTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="34" selection-start-line="34" selection-end-line="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Exception/multiCatchException.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Exception/String_IndexOutOfBoundsException.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="243">
+              <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+              <folding>
+                <element signature="e#358#359#0" expanded="true" />
+                <element signature="e#394#395#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/IO/CharSetStream/StreamReader.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="201">
-              <caret line="50" column="5" lean-forward="true" selection-start-line="50" selection-start-column="5" selection-end-line="50" selection-end-column="5" />
+            <state relative-caret-position="891">
+              <caret line="43" column="23" selection-start-line="43" selection-start-column="23" selection-end-line="43" selection-end-column="23" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -69,10 +121,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://$PROJECT_DIR$/../../../Java/JDK/src.zip!/java/lang/String.java">
+        <entry file="file://$PROJECT_DIR$/out/production/JavaBase_IO/Resource/test.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="150" column="11" selection-start-line="150" selection-start-column="11" selection-end-line="150" selection-end-column="11" />
+            <state>
+              <caret column="14" selection-start-column="14" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/LocalClass/LocalClassTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="19" column="72" selection-start-line="19" selection-start-column="72" selection-end-line="19" selection-end-column="72" />
             </state>
           </provider>
         </entry>
@@ -91,6 +152,8 @@
       <find>LogUtils</find>
       <find>set</find>
       <find>File</find>
+      <find>127</find>
+      <find>IntegerCache</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -106,14 +169,21 @@
         <option value="$PROJECT_DIR$/src/ByteStream/FileInputStream.java" />
         <option value="$PROJECT_DIR$/src/Resource/test.txt" />
         <option value="$PROJECT_DIR$/src/ByteStream/FileInputStream_test.java" />
-        <option value="$PROJECT_DIR$/src/BaseAPI/BaseType.java" />
         <option value="$PROJECT_DIR$/src/IO/FileInputStream_test.java" />
         <option value="$PROJECT_DIR$/src/IO/ByteStream/FileInputStream_test.java" />
         <option value="$PROJECT_DIR$/src/IO/BufferStream/BufferInPutSteam_test.java" />
         <option value="$PROJECT_DIR$/src/IO/BufferStream/BufferSteam.java" />
-        <option value="$PROJECT_DIR$/src/IO/ByteStream/BufferSteam.java" />
         <option value="$PROJECT_DIR$/src/IO/ByteStream/FileStream.java" />
         <option value="$PROJECT_DIR$/src/IO/CharSetStream/StreamReader.java" />
+        <option value="$PROJECT_DIR$/src/IO/ByteStream/BufferSteam.java" />
+        <option value="$PROJECT_DIR$/src/LocalClass/LocalClassTest.java" />
+        <option value="$PROJECT_DIR$/src/BaseAPI/BaseType.java" />
+        <option value="$PROJECT_DIR$/src/BaseAPI/Double_new_CompareTo_valueOf.java" />
+        <option value="$PROJECT_DIR$/src/Test/test.java" />
+        <option value="$PROJECT_DIR$/src/Exception/String_IndexOutOfBoundsException.java" />
+        <option value="$PROJECT_DIR$/src/Exception/SetValueTest.java" />
+        <option value="$PROJECT_DIR$/src/Exception/multiCatchException.java" />
+        <option value="$PROJECT_DIR$/src/Test/bishi/Main_sike.java" />
       </list>
     </option>
   </component>
@@ -129,40 +199,12 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="JavaBase_IO" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaBase_IO" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaBase_IO" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaBase_IO" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaBase_IO" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaBase_IO" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-              <item name="production" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaBase_IO" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaBase_IO" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-              <item name="production" type="462c0819:PsiDirectoryNode" />
-              <item name="JavaBase_IO" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaBase_IO" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaBase_IO" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-              <item name="production" type="462c0819:PsiDirectoryNode" />
-              <item name="JavaBase_IO" type="462c0819:PsiDirectoryNode" />
-              <item name="Resource" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaBase_IO" type="b2602c69:ProjectViewProjectNode" />
@@ -179,39 +221,27 @@
               <item name="JavaBase_IO" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaBase_IO" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="IO" type="462c0819:PsiDirectoryNode" />
+              <item name="Exception" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaBase_IO" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaBase_IO" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="IO" type="462c0819:PsiDirectoryNode" />
-              <item name="ByteStream" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaBase_IO" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaBase_IO" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="IO" type="462c0819:PsiDirectoryNode" />
-              <item name="CharSetStream" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaBase_IO" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaBase_IO" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Resource" type="462c0819:PsiDirectoryNode" />
+              <item name="Test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1568990161201" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../yanxuan-qc-api" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1569246276150" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -231,13 +261,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.StreamReader">
-    <configuration name="BaseType" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BaseAPI.BaseType" />
+  <component name="RunManager" selected="Application.Main_sike">
+    <configuration name="Main_sike" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test.bishi.Main_sike" />
       <module name="JavaBase" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BaseAPI.*" />
+          <option name="PATTERN" value="Test.bishi.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -245,12 +275,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BufferSteam" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="IO.ByteStream.BufferSteam" />
+    <configuration name="SetValueTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exception.SetValueTest" />
       <module name="JavaBase" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="IO.ByteStream.*" />
+          <option name="PATTERN" value="Exception.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -258,12 +288,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FileStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="IO.ByteStream.FileStream" />
+    <configuration name="String_IndexOutOfBoundsException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exception.String_IndexOutOfBoundsException" />
       <module name="JavaBase" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="IO.ByteStream.*" />
+          <option name="PATTERN" value="Exception.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -271,12 +301,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StreamReader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="IO.CharSetStream.StreamReader" />
+    <configuration name="multiCatchException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exception.multiCatchException" />
       <module name="JavaBase" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="IO.CharSetStream.*" />
+          <option name="PATTERN" value="Exception.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -284,59 +314,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test.test" />
       <module name="JavaBase" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
-      <module name="JavaBase" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.StreamReader" />
-        <item itemvalue="Application.FileStream" />
-        <item itemvalue="Application.BufferSteam" />
-        <item itemvalue="Application.BaseType" />
+        <item itemvalue="Application.Main_sike" />
+        <item itemvalue="Application.multiCatchException" />
+        <item itemvalue="Application.String_IndexOutOfBoundsException" />
+        <item itemvalue="Application.SetValueTest" />
+        <item itemvalue="Application.test" />
       </list>
     </recent_temporary>
   </component>
@@ -352,18 +349,20 @@
       <updated>1568896802102</updated>
       <workItem from="1568896813525" duration="2999000" />
       <workItem from="1568902832216" duration="1577000" />
-      <workItem from="1568943813364" duration="15537000" />
+      <workItem from="1568943813364" duration="15607000" />
+      <workItem from="1569035506879" duration="3069000" />
+      <workItem from="1569205088454" duration="12539000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20113000" />
+    <option name="totallyTimeSpent" value="35791000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1928" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-1928" y="-8" width="1936" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15405117" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15724947" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -377,7 +376,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.2650334" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.26391983" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32962137" />
@@ -436,20 +435,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/out/production/JavaBase_IO/Resource/test.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BaseAPI/BaseType.java">
+    <entry file="jar://$PROJECT_DIR$/../../../Java/JDK/src.zip!/java/lang/String.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="25" column="32" lean-forward="true" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="32" />
+        <state relative-caret-position="184">
+          <caret line="150" column="11" selection-start-line="150" selection-start-column="11" selection-end-line="150" selection-end-column="11" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/IO/ByteStream/FileStream.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="283">
-          <caret line="29" column="37" lean-forward="true" selection-start-line="29" selection-start-column="37" selection-end-line="29" selection-end-column="37" />
+        <state relative-caret-position="675">
+          <caret line="29" column="37" selection-start-line="29" selection-start-column="37" selection-end-line="29" selection-end-column="37" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -458,28 +454,114 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/IO/ByteStream/BufferSteam.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="283">
-          <caret line="25" selection-start-line="25" selection-end-line="25" selection-end-column="84" />
+        <state relative-caret-position="648">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../../Java/JDK/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="150" column="11" selection-start-line="150" selection-start-column="11" selection-end-line="150" selection-end-column="11" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/IO/CharSetStream/StreamReader.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="201">
-          <caret line="50" column="5" lean-forward="true" selection-start-line="50" selection-start-column="5" selection-end-line="50" selection-end-column="5" />
+        <state relative-caret-position="891">
+          <caret line="43" column="23" selection-start-line="43" selection-start-column="23" selection-end-line="43" selection-end-column="23" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/JavaBase_IO/Resource/test.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="14" selection-start-column="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LocalClass/LocalClassTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="19" column="72" selection-start-line="19" selection-start-column="72" selection-end-line="19" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../Java/JDK/src.zip!/java/lang/Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="829" column="29" selection-start-line="829" selection-start-column="17" selection-end-line="829" selection-end-column="29" />
+          <folding>
+            <element signature="e#32532#32533#0" expanded="true" />
+            <element signature="e#32566#32567#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exception/String_IndexOutOfBoundsException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+          <folding>
+            <element signature="e#358#359#0" expanded="true" />
+            <element signature="e#394#395#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BaseAPI/Double_new_CompareTo_valueOf.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="18" column="44" selection-start-line="18" selection-start-column="44" selection-end-line="18" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BaseAPI/BaseType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-69">
+          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+          <folding>
+            <element signature="e#335#336#0" expanded="true" />
+            <element signature="e#369#370#0" expanded="true" />
+            <element signature="e#718#719#0" expanded="true" />
+            <element signature="e#755#756#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exception/SetValueTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exception/multiCatchException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#374#375#0" expanded="true" />
+            <element signature="e#428#429#0" expanded="true" />
+            <element signature="e#358#359#0" expanded="true" />
+            <element signature="e#383#384#0" expanded="true" />
+            <element signature="e#420#421#0" expanded="true" />
+            <element signature="e#448#449#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test/bishi/Main_sike.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="39" column="22" selection-start-line="39" selection-start-column="22" selection-end-line="39" selection-end-column="22" />
         </state>
       </provider>
     </entry>

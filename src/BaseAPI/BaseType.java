@@ -7,6 +7,8 @@
 package BaseAPI;
 
 /**
+ * 使用Integer向Long型赋值的时候隐藏溢出问题
+ *
  * @author 陈敏(chenmin5 @ corp.netease.com)
  */
 public class BaseType {

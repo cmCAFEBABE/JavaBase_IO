@@ -40,6 +40,7 @@ public class BufferSteam {
         File file=new File(path);
         try(BufferedOutputStream bufferedOutPutSteam=new BufferedOutputStream(new FileOutputStream(file) )){
             bufferedOutPutSteam.write("chenmin1995".getBytes());
+            bufferedOutPutSteam.flush();
         }catch (IOException ignore){
 
         }

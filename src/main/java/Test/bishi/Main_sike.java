@@ -12,6 +12,7 @@ import java.util.Scanner;
  * @author 陈敏(chenmin5 @ corp.netease.com)
  */
 public class Main_sike {
+    final String[] str={"123","456"};
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         String str=sc.nextLine();

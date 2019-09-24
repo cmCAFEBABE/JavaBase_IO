@@ -15,7 +15,8 @@ public class BaseType {
 
     public static Long a;
     public static void main(String[] args) {
-        LongDefaultValue();
+        //LongDefaultValue();
+        IntegerToLong();
     }
     public static void IntegerToLong(){
         int n=Integer.MAX_VALUE;
@@ -26,10 +27,16 @@ public class BaseType {
         System.out.println(nn);
         long nnn=(long)(Integer.MAX_VALUE+1);
         System.out.println(nnn);
+        long nnnn=Integer.MAX_VALUE+(long)1;
+        System.out.println(nnnn);
     }
 
 
     public static void LongDefaultValue(){
         System.out.println(a);
+    }
+    private double test(int a ,int b){
+        double c=a*b;
+        return c;
     }
 }
